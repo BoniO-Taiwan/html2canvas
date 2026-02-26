@@ -2,6 +2,8 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.3.4](https://github.com/niklasvh/html2canvas/compare/v1.3.3...v1.3.4) (2026-02-26)
+
 ## [1.3.3](https://github.com/niklasvh/html2canvas/compare/v1.3.2...v1.3.3) (2021-11-23)
 
 
